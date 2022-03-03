@@ -12,7 +12,7 @@ function App() {
                 <h1>Infinite People</h1>
                 <InfinitePeople />
 
-                <ReactQueryDevtools />
+                <ReactQueryDevtools position="bottom-right" />
             </div>
         </QueryClientProvider>
     );
